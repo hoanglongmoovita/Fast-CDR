@@ -25,3 +25,7 @@ cscope.out
 *.pyc
 # Installers
 *.tar.gz
+
+build_aarch64
+build_cross
+build_host
